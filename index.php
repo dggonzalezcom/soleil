@@ -18,4 +18,3 @@
  {
     echo "Exception capture: <pre>{$e->getMessage()}</pre>";
  }
- \soleil\api\php\Tools::foo(1);
