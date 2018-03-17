@@ -1,9 +1,20 @@
-<?php
+<?php 
 /**
- * This is the file description 
- * @author Christian Weiske <cweiske@cweiske.de>
+ * Soleil - Framework for web development 
+ * 
+ * @author David González <dev@dggonzalez.com>
+ * @version 0.1
  */
- 
+
+ /**
+  * namespace Class
+  */
+ namespace soleil\api\php;
+
+/**
+ * Class Tools
+ * @package soleil
+ */
 class Tools
 {
     /**
