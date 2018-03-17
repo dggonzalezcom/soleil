@@ -1,9 +1,12 @@
 <?php 
 /**
  * Soleil - Framework for web development 
- * 
- * @author David González <dev@dggonzalez.com>
- * @version 0.1
+ *  
+ * @version     0.1  
+ * @license     GNU/GPL
+ * @license     https://www.gnu.org/licenses/licenses.en.html GNU General Public License
+ * @author      David Gonzalez Gonzalez <dev@dggonzalez.com>
+ * @copyright   GNU/GPL@2018 
  */
 
  /**
@@ -16,20 +19,4 @@
  * @package soleil
  */
 class Tools
-{
-    /**
-     * Return fuoasd asdasd
-     *  
-     * <code>
-     * echo oo;
-     * </code>
-     * 
-     * @version 0.1
-     * @param int $param asdadsasdasd
-     * @return bool TRUE | FALSE
-     */
-    public static function foo( $param )
-    {
-        return TRUE;
-    }
-} 
+{} 
