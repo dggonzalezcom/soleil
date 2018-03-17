@@ -1,0 +1,9 @@
+<?php
+/*! \mainpage A simple manual
+
+Some general info.
+
+This manual is divided in the following sections:
+- \subpage intro
+- \subpage advanced "Advanced usage"
+*/
