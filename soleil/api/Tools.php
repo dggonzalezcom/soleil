@@ -1,7 +1,7 @@
 <?php
 /**
  * This is the file description
- *
+ * Make me happy
  * @author Christian Weiske <cweiske@cweiske.de>
  */
  
