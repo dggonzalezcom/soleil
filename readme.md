@@ -1,6 +1,6 @@
 # Soleil
 ## Framework for web development
 ---
-## author
+## Author
 > David González González | www.dggonzalez.com <br> 
 > <small>dev@dggonzalez.com</small><br> 
